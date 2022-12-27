@@ -2,5 +2,5 @@
 Library/
 # everything inside logs folder
 Logs/
-# everything inside User Settings
-UserSettings/
+# dwlt file type
+*.dwlt
