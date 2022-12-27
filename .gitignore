@@ -1,0 +1,4 @@
+# everything inside library folder
+Library/
+# everything inside logs folder
+Logs/
